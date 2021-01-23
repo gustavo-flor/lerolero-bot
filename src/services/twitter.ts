@@ -1,5 +1,6 @@
 import Twitter from 'twitter';
-import lerolero from 'lerolero';
+
+import lerolero from './lerolero';
 
 import { 
   TWITTER_CONSUMER_KEY, 
@@ -17,12 +18,12 @@ import {
 
 const tweetar = async () => {
   try {
-    const status = lerolero() as string;
+    const status = await lerolero();
 
     console.log(status);
     // await client.post('statuses/update', { status });
-  } catch (e) {
-    console.log('Erro: ', e);
+  } catch (exception) {
+    console.error('[ERROR]', exception);
   }
 }
 
