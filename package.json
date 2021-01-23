@@ -14,8 +14,8 @@
     "url": "git+https://github.com/ogustaflor/lerolero-bot.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Gustavo Flôr",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ogustaflor/lerolero-bot/issues"
   },
