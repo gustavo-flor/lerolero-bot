@@ -51,7 +51,7 @@ const sentences = [
     "o polo hostil da ambivalência afetiva do complexo paterno ",
     "o inconsciente estruturado como linguagem ",
     "a pulsão escópica ",
-    "o assédio das grandes necessidades orgiânicas ",
+    "o assédio das grandes necessidades orgânicas ",
     "a defesa frente à inexorabilidade do real ",
   ],
   [
@@ -73,7 +73,7 @@ const sentences = [
     "se vale da tradução metafórica do material ",
   ],
   [
-    " sem que isso impeça a extração de gozo.",
+    "sem que isso impeça a extração de gozo.",
     "que delimita o campo de intervenção do analista ",
     "que termina por transformar o objeto em uma instância paranóica.",
     "que leva à convergência no recalque.",
